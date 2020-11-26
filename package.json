@@ -1,0 +1,23 @@
+{
+  "name": "project-one",
+  "version": "1.0.0",
+  "description": "this is simple express project to learn ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon App/app.js"
+  },
+  "keywords": [
+    "express",
+    "learn",
+    "stack-learner"
+  ],
+  "author": "Shahjalal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
